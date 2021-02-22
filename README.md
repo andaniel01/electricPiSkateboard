@@ -6,3 +6,5 @@
 
 Images: 
 ![Image description](https://github.com/andaniel01/electricPiSkateboard/blob/main/IMG_0037.JPG)
+![Image description](https://github.com/andaniel01/electricPiSkateboard/blob/main/IMG_0038.JPG)
+![Image description](https://github.com/andaniel01/electricPiSkateboard/blob/main/IMG_0039.JPG)
